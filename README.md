@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandawln
 - 👀 I’m interested in data
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently studying Machine Learning
 - 💞️ I’m looking to collaborate on data role
 - 😄 Pronouns: she/her
 

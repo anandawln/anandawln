@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+
+MY EXPERTISE
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!---
 anandawln/anandawln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

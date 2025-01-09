@@ -1,3 +1,57 @@
+# Hi there! 👋 Welcome to my GitHub Profile!
+
+## About Me
+
+I'm **[Wulan]**, a passionate **Data Analyst** and aspiring **Machine Learning Engineer**. I enjoy working with data, solving problems, and creating meaningful visualizations. Currently, I'm diving deeper into **Python**, **SQL**, and **Web3 technologies**.
+
+- 🌱 I’m currently learning: Data Science, Web3, and Machine Learning.
+- 🎯 2025 Goals: Secure a role in **Data Science** or **Machine Learning** (preferably in Japan!).
+- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 🌐 Website/Portfolio: [YourWebsiteLink](https://yourwebsite.com)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Tools & Technologies
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Ananda Wulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+
+---
+
+## 🌟 Featured Projects
+
+### [Project 1: Data Visualization Dashboard](https://github.com/YourUsername/YourProject1)
+A comprehensive dashboard for visualizing sales data.
+
+### [Project 2: Machine Learning Model](https://github.com/YourUsername/YourProject2)
+Predictive model to forecast customer behavior.
+
+### [Project 3: Web3 Smart Contract](https://github.com/YourUsername/YourProject3)
+A basic Ethereum smart contract to manage transactions.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 - 👋 Hi, I’m @anandawln
 - 👀 I’m interested in data
 - 🌱 I’m currently studying Machine Learning

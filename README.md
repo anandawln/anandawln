@@ -5,11 +5,9 @@
 I'm **Wulan**, a passionate **Data Analyst** and aspiring **Data Scientist**. I enjoy working with data, solving problems, and creating meaningful visualizations. Currently, I'm diving deeper into **Python**, **SQL**, and **Web3 technologies**.
 
 - 🌱 I’m currently learning: Data Science, Web3, and Machine Learning.
-- 👀 I’m interested in data
 - 💞️ I’m looking to collaborate on data role
 - 😄 Pronouns: she/her
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 Website/Portfolio: [YourWebsiteLink](https://yourwebsite.com)
+
 
 ---
 

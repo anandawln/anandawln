@@ -34,6 +34,8 @@ I'm **Wulan**, a passionate **Data Analyst** and aspiring **Data Scientist**. I 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/Dev--C++-003B57?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ---
 

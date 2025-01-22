@@ -35,7 +35,7 @@ I'm **Wulan**, a passionate **Data Analyst** and aspiring **Data Scientist**. I 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Dev-C++](https://img.shields.io/badge/Dev--C++-003B57?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-1.4.1717-blue)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://www.rstudio.com/)
 
 
 ---

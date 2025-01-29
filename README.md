@@ -42,11 +42,11 @@ I am a passionate and detail-oriented Data Analyst & Aspiring Data Scientist wit
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandawln&show_icons=true&theme=radical)
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandawln&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandawln&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandawln&layout=compact&theme=tokyonight)
-
----
 
 ## 🌟 Featured Projects
 

@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm **Wulan**, a passionate **Data Analyst** and aspiring **Data Scientist**. I enjoy working with data, solving problems, and creating meaningful visualizations. Currently, I'm diving deeper into **Python**, **SQL**, and **Web3 technologies**.
+**Hello, I'm Wulan👋**
 
-- 🌱 I’m currently learning: Data Science, Web3, and Machine Learning.
-- 💞️ I’m looking to collaborate on data role
-- 😄 Pronouns: she/her
+I am a passionate and detail-oriented Data Analyst & Aspiring Data Scientist with hands-on experience in turning raw data into actionable insights. Through internships and diverse projects, I have honed my skills in data visualization, statistical analysis, and machine learning, leveraging data-driven approaches to solve real-world problems. Constantly learning and exploring new technologies, I thrive on transforming complex datasets into compelling narratives that drive informed decision-making.
+
+
 
 
 ---
@@ -56,12 +56,12 @@ A comprehensive dashboard for visualizing sales data.
 ### [Project 2: Machine Learning Model](https://github.com/YourUsername/YourProject2)
 Predictive model to forecast customer behavior.
 
-### [Project 3: Web3 Smart Contract](https://github.com/YourUsername/YourProject3)
+### [Project 3: Credit Scoring Project](https://github.com/YourUsername/YourProject3)
 A basic Ethereum smart contract to manage transactions.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Explore My Work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/YourPage)

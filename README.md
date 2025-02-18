@@ -8,6 +8,7 @@
 🤖 Currently diving deep into Machine Learning & AI  
 🎯 日本語を勉強しています！(にほんごをべんきょうしています！) 🇯🇵  
 🌍 Open to collaborations & learning new tech  
+🤝 I'm in the process of learning, and I would appreciate any feedback or correction  
 
 ## 📫 Explore My Work
 

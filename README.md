@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは 😊, I'm Wulan👋  </h1>
+<h1 align="center">こんにちは, I'm Wulan👋  </h1>
 <h2 align="center">Data Analytics | Business Intelligence | Data Science</h2>
 
 

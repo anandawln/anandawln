@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは 😊, I'm Wulan👋  </h1>
-<h2 align="center">Data Enthusiast | Data Analyst | BI | Data Scientist</h2>
+<h2 align="center">Data Analytics | Business Intelligence | Data Science</h2>
 
 
 ## 🌟 About Me

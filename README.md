@@ -6,7 +6,7 @@
 
 📊 Passionate about turning data into insights & decisions  
 🤖 Currently diving deep into Machine Learning & AI  
-🎯 にほんごをべんきょうしています！
+🎯 にほんごをべんきょうしています!  
 🌍 Open to collaborations & learning new tech  
 🤝 I'm in the process of learning, and I would appreciate any feedback or correction  
 

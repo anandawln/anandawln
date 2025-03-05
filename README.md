@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは, I'm Wulan👋  </h1>
+<h1 align="center">こんにちは, I'm Wulan👋</h1>
 <h2 align="center">Data Analytics | Business Intelligence | Data Science</h2>
 
 
@@ -145,7 +145,7 @@ A data science project focusing on data analysis, machine learning and predictiv
 ### [Project 3: Database/SQL Project](https://github.com/YourUsername/YourProject3)
 An SQL-based project for data management, querying, and analysis.
 
-<h4 align="center">"If you want to explore more of my projects, feel free to check out my other repositories!"  </h4>
+<h4 align="center">""Explore my other repositories to discover more projects!"</h4>
 
 
 ---

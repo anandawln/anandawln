@@ -137,13 +137,16 @@
 ## 🌟 Featured Projects
 
 ### [Project 1: Data Visualization Dashboard](https://github.com/YourUsername/YourProject1)
-A comprehensive dashboard for visualizing sales data.
+A comprehensive dashboard for visualizing data.
 
-### [Project 2: Machine Learning Model](https://github.com/YourUsername/YourProject2)
-Predictive model to forecast customer behavior.
+### [Project 2: Data Science Project](https://github.com/YourUsername/YourProject2)
+A data science project focusing on data analysis, machine learning and predictive modeling.
 
-### [Project 3: Credit Scoring Project](https://github.com/YourUsername/YourProject3)
-A basic Ethereum smart contract to manage transactions.
+### [Project 3: Database/SQL Project](https://github.com/YourUsername/YourProject3)
+An SQL-based project for data management, querying, and analysis.
+
+<h4 align="center">"If you want to explore more of my projects, feel free to check out my other repositories!"  </h4>
+
 
 ---
 

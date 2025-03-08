@@ -136,7 +136,7 @@
 
 ## 🌟 Featured Projects
 
-### [Project 1: Data Visualization Dashboard](https://github.com/YourUsername/YourProject1)
+### [Project 1: Data Visualization Dashboard](https://github.com/anandawln/dashboard-project)
 A comprehensive dashboard for visualizing data.
 
 ### [Project 2: Data Science Project](https://github.com/YourUsername/YourProject2)

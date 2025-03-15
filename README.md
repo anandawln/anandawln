@@ -142,7 +142,7 @@ A comprehensive dashboard for visualizing data.
 ### [Project 2: Data Science Project](https://github.com/anandawln/data-science-collection-project)
 A data science project focusing on data analysis, machine learning and predictive modeling.
 
-### [Project 3: Database/SQL Project](https://github.com/YourUsername/YourProject3)
+### [Project 3: Database/SQL Project](https://github.com/anandawln/SQL-project-collection)
 An SQL-based project for data management, querying, and analysis.
 
 <h4 align="center">""Explore my other repositories to discover more projects!"</h4>

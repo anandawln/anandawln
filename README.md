@@ -139,7 +139,7 @@
 ### [Project 1: Data Visualization Dashboard](https://github.com/anandawln/dashboard-project)
 A comprehensive dashboard for visualizing data.
 
-### [Project 2: Data Science Project](https://github.com/YourUsername/YourProject2)
+### [Project 2: Data Science Project](https://github.com/anandawln/data-science-collection-project)
 A data science project focusing on data analysis, machine learning and predictive modeling.
 
 ### [Project 3: Database/SQL Project](https://github.com/YourUsername/YourProject3)

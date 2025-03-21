@@ -136,13 +136,13 @@
 
 ## 🌟 Featured Projects
 
-### [Project 1: Data Visualization Dashboard](https://github.com/anandawln/dashboard-project)
+### [Project 1: Data Visualization Dashboard (click here)](https://github.com/anandawln/dashboard-project)
 A comprehensive dashboard for visualizing data.
 
-### [Project 2: Data Science Project](https://github.com/anandawln/data-science-collection-project)
+### [Project 2: Data Science Project (click here)](https://github.com/anandawln/data-science-collection-project)
 A data science project focusing on data analysis, machine learning and predictive modeling.
 
-### [Project 3: Database/SQL Project](https://github.com/anandawln/SQL-project-collection)
+### [Project 3: Database/SQL Project (click here)](https://github.com/anandawln/SQL-project-collection)
 An SQL-based project for data management, querying, and analysis.
 
 <h4 align="center">""Explore my other repositories to discover more projects!"</h4>

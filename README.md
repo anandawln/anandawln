@@ -145,7 +145,7 @@ A data science project focusing on data analysis, machine learning and predictiv
 ### [Project 3: Database/SQL Project (click here)](https://github.com/anandawln/SQL-project-collection)
 An SQL-based project for data management, querying, and analysis.
 
-<h4 align="center">""Explore my other repositories to discover more projects!"</h4>
+<h4 align="center">""Explore my other repositories to discover more projects"</h4>
 
 
 ---

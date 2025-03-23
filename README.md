@@ -23,10 +23,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
   
-  <!-- Looker Studio -->
-   <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googleanalytics.svg" alt="looker studio" width="40" height="40"/>
-  </a>
+  <!-- Looker Studio-->
+  <a href="https://example.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/anandawln/anandawln/blob/main/content/looker studio.png" alt="looker studio logo" width="60" height="60"/>
+</a>
 
   <!-- Docker -->
   <a href="https://example.com" target="_blank" rel="noreferrer">

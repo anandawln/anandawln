@@ -33,6 +33,11 @@
     <img src="https://github.com/anandawln/anandawln/blob/main/content/icons8-docker-logo-48.png" alt="docker logo" width="40" height="40"/>
 </a>
 
+<!-- Airflow -->
+  <a href="https://example.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/anandawln/anandawln/blob/main/content/airflow_transparent.png" alt="airflow logo" width="40" height="40"/>
+</a>
+
   <!-- Jupyter -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>

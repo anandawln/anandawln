@@ -38,6 +38,11 @@
     <img src="https://github.com/anandawln/anandawln/blob/main/content/airflow_transparent.png" alt="airflow logo" width="40" height="40"/>
 </a>
 
+<!-- TensorFlow -->
+ <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/anandawln/anandawln/blob/main/content/tensorflow.png" alt="TensorFlow Logo" width="40" height="40"/>
+</a>
+
   <!-- Jupyter -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>

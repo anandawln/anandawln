@@ -24,17 +24,17 @@
   </a>
   
   <!-- Looker Studio-->
-  <a href="https://example.com" target="_blank" rel="noreferrer">
+  <a href="https://lookerstudio.google.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/anandawln/anandawln/blob/main/content/looker studio.png" alt="looker studio logo" width="60" height="60"/>
 </a>
 
   <!-- Docker -->
-  <a href="https://example.com" target="_blank" rel="noreferrer">
+  <a href="https://docker.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/anandawln/anandawln/blob/main/content/icons8-docker-logo-48.png" alt="docker logo" width="40" height="40"/>
 </a>
 
 <!-- Airflow -->
-  <a href="https://example.com" target="_blank" rel="noreferrer">
+  <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/anandawln/anandawln/blob/main/content/airflow_transparent.png" alt="airflow logo" width="40" height="40"/>
 </a>
 

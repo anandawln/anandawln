@@ -30,7 +30,7 @@
 
   <!-- Docker -->
   <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/anandawln/anandawln/blob/main/content/icons8-docker-logo-48.png" alt="docker logo" width="40" height="40"/>
+    <img src="https://github.com/anandawln/anandawln/blob/main/content/docker_logo.png" alt="docker logo" width="50" height="40"/>
 </a>
 
 <!-- Airflow -->

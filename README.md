@@ -22,6 +22,11 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
+
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/anandawln/anandawln/blob/main/content/SQL_SERVER.png" alt="powerbi" width="50" height="50"/>
+  </a>
   
   <!-- Looker Studio-->
   <a href="https://lookerstudio.google.com" target="_blank" rel="noreferrer">

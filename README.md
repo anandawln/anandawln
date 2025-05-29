@@ -48,6 +48,11 @@
     <img src="https://github.com/anandawln/anandawln/blob/main/content/airflow_transparent.png" alt="airflow logo" width="40" height="40"/>
 </a>
 
+<!-- Dbeaver -->
+ <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/anandawln/anandawln/blob/main/content/DBeaver.png" alt="DBeaver" width="40" height="40"/>
+</a>
+
 <!-- TensorFlow -->
  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/anandawln/anandawln/blob/main/content/tensorflow.png" alt="TensorFlow Logo" width="40" height="40"/>

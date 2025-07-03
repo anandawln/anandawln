@@ -153,8 +153,8 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandawln&show_icons=true&theme=dark" alt="GitHub Stats" />  
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandawln&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandawln&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 

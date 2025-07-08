@@ -30,27 +30,27 @@
 
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/anandawln/anandawln/blob/main/content/aws logo.png" alt="powerbi" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="powerbi" width="40" height="40"/>
   </a>
   
   <!-- Looker Studio-->
   <a href="https://lookerstudio.google.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/anandawln/anandawln/blob/main/content/looker studio.png" alt="looker studio logo" width="60" height="60"/>
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/looker-icon.svg" alt="looker studio logo" width="40" height="40"/>
 </a>
 
   <!-- Docker -->
   <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/anandawln/anandawln/blob/main/content/docker_logo.png" alt="docker logo" width="50" height="40"/>
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg" alt="docker logo" width="50" height="40"/>
 </a>
 
 <!-- Airflow -->
   <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/anandawln/anandawln/blob/main/content/airflow_transparent.png" alt="airflow logo" width="40" height="40"/>
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/airflow-icon.svg" alt="airflow logo" width="40" height="40"/>
 </a>
 
 <!-- Dbeaver -->
  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/anandawln/anandawln/blob/main/content/DBeaver.png" alt="DBeaver" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/>
 </a>
 
 <!-- TensorFlow -->
@@ -90,7 +90,7 @@
 
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" alt="tableau" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
   </a>
 
   <!-- Figma -->
@@ -145,6 +145,61 @@
 <!-- Seaborn -->
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</a>
+
+<!-- dbt -->
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt-icon.svg" alt="dbt" width="40" height="30"/>
+</a>
+
+<!-- Apache Spark -->
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-spark.svg" alt="apache spark" width="40" height="40"/>
+</a>
+
+<!-- Apache Kafka -->
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/kafka-icon.svg" alt="apache kafka" width="40" height="35"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<!-- Ubuntu -->
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+</a>
+
+<!-- Stata -->
+<a href="https://www.stata.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/stata/stata-original-wordmark.svg" alt="stata" width="40" height="40"/>
+</a>
+
+<!-- Visual Studio 2022 -->
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" alt="visual studio 2022" width="50" height="50"/>
+</a>
+
+<!-- Amazon S3 -->
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/aws-s3.svg" alt="amazon s3" width="40" height="40"/>
+</a>
+
+<!-- Amazon Redshift -->
+<a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/aws-redshift.svg" alt="amazon redshift" width="40" height="40"/>
+</a>
+
+<!-- Snowflake -->
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
+</a>
+
+<!-- XAMPP -->
+<a href="https://www.apachefriends.org" target="_blank" rel="noreferrer">
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/xampp.svg" alt="xampp" width="40" height="40"/>
 </a>
 </p>
 

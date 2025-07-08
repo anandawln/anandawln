@@ -196,11 +196,6 @@
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
 </a>
-
-<!-- XAMPP -->
-<a href="https://www.apachefriends.org" target="_blank" rel="noreferrer">
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/xampp.svg" alt="xampp" width="40" height="40"/>
-</a>
 </p>
 
 

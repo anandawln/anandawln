@@ -77,6 +77,11 @@
   <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
   </a>
+
+  <!-- Qlik -->
+<a href="https://www.qlik.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/qlik.svg" alt="qlik logo" width="60" height="70"/>
+</a>
   
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">

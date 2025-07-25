@@ -201,6 +201,11 @@
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
 </a>
+
+<!-- Apache Cassandra -->
+<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Apache Cassandra" width="60" height="60"/>
+</a>
 </p>
 
 

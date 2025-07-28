@@ -206,6 +206,10 @@
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Apache Cassandra" width="60" height="60"/>
 </a>
+
+<a href="https://www.databricks.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="70" height="90"/>
+</a>
 </p>
 
 

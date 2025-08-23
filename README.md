@@ -1,13 +1,13 @@
 <h1 align="center">こんにちは, I'm Wulan👋</h1>
-<h2 align="center">Data Analytics | Business Intelligence | Data Science | Data Engineering</h2>
+<h2 align="center"> Data Engineering & Business Intelligence Specialist</h2>
 
 
 ## 🌟 About Me
 
-📊 Passionate about turning raw data into scalable pipelines and actionable insights  
+📊 Turning raw data into scalable pipelines & insights   
 🤖 Currently diving deep into Big Data Technologies, Cloud Computing, DevOps, and AI  
-🎯 Focused on building efficient data systems and mastering modern data tech  
-🌍 Open to collaborations on data projects and learning new tools  
+🎯 Building efficient data systems with modern tech  
+🌍 Open to data collaborations & new tools    
 🤝 Feedback Welcome - I'm growing every day, so please share tips or corrections!  
 
 ## 📫 Reach Me

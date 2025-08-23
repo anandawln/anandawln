@@ -4,11 +4,11 @@
 
 ## 🌟 About Me
 
-📊 Passionate about turning data into insights & decisions  
-🤖 Currently diving deep into Machine Learning & AI  
-🎯 にほんごをべんきょうしています!  
-🌍 Open to collaborations & learning new tech  
-🤝 I'm in the process of learning, and I would appreciate any feedback or correction  
+📊 Passionate about turning raw data into scalable pipelines and actionable insights  
+🤖 Currently diving deep into Big Data Technologies, Cloud Computing, DevOps, and AI  
+🎯 Focused on building efficient data systems and mastering modern data tech  
+🌍 Open to collaborations on data projects and learning new tools  
+🤝 Feedback Welcome - I'm growing every day, so please share tips or corrections!  
 
 ## 📫 Reach Me
 

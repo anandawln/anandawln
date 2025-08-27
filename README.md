@@ -204,14 +204,14 @@
 ### [Data Engineering Project – Airflow, PostgreSQL, MySQL, Docker, SSIS, Talend, SQL Server, Flask RESTful API (click here)](https://github.com/anandawln/Data-Engineering-Project-Collections)
 *ETL pipeline optimization, testing data workflows, data ingestion, designing data warehouse, containerization, ingest data from API.*
 
-### [Big Data, Data Science – BigQuery, PySpark, Jupyter Notebook, (click here)](link)
-Data wrangling, EDA, featured engineering, machine learning basic, visualization
+### [Database SQL Project – Big Query, MySQL, PostgreSQL, SQL Server (click here)](https://github.com/anandawln/SQL-Project-Collection)
+*Data Definition Language (DDL), Function, Stored Procedure, Data Manipulation Language (DML), View.*
 
-### [Database SQL Project – Big Query, MySQL, PostgreSQL, SQL Server (click here)](link)
-Data Definition Language (DDL), Function, Stored Procedure, Data Manipulation Language (DML), View
+### [Dashboard/Business Intelligence Project – Power BI, Looker Studio (click here)](https://github.com/anandawln/Dashboard-Project)
+*Designed interactive dashboards and dynamic reports to support data-driven decision-making.*
 
-### [Dashboard/Business Intelligence Project – Power BI, Looker Studio (click here)](link)
-Designed interactive dashboards and dynamic reports to support data-driven decision-making
+### [Big Data, Data Science – BigQuery, PySpark, Jupyter Notebook, (click here)](https://github.com/anandawln/Big-Data-and-Data-Science-Collections)
+*Data wrangling, EDA, featured engineering, machine learning basic, visualization.*
 
 <h4 align="center">""Explore my other repositories to discover more projects"</h4>
 

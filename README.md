@@ -199,19 +199,19 @@
 </p>
 
 
-## 🌟 Featured Projects
+## 🌟 Project Collections
 
-### [Project 1: Data Visualization Dashboard (click here)](https://github.com/anandawln/dashboard-project)
-A comprehensive dashboard for visualizing data.
+### [Data Engineering Project – Airflow, PostgreSQL, MySQL, Docker, SSIS, Talend, SQL Server, Flask RESTful API (click here)](link)
+ETL pipeline optimization, testing data workflows, data ingestion, designing data warehouse, containerization, ingest data from API
 
-### [Project 2: Data Science Project (click here)](https://github.com/anandawln/data-science-collection-project)
-A data science project focusing on data analysis, machine learning and predictive modeling.
+### [Big Data, Data Science – BigQuery, PySpark, Jupyter Notebook, (click here)](link)
+Data wrangling, EDA, featured engineering, machine learning basic, visualization
 
-### [Project 3: Database/SQL Project (click here)](https://github.com/anandawln/SQL-project-collection)
-An SQL-based project for data management, querying, and analysis.
+### [Database SQL Project – Big Query, MySQL, PostgreSQL, SQL Server (click here)](link)
+Data Definition Language (DDL), Function, Stored Procedure, Data Manipulation Language (DML), View
 
-### [Project 4: Data Engieering/Extract Transform Load (ETL) Project (click here)](https://github.com/anandawln/ETL-processes)
-An ETL project to extract, transform, and load data for smooth integration and analysis.
+### [Dashboard/Business Intelligence Project – Power BI, Looker Studio (click here)](link)
+Designed interactive dashboards and dynamic reports to support data-driven decision-making
 
 <h4 align="center">""Explore my other repositories to discover more projects"</h4>
 

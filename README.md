@@ -210,9 +210,6 @@
 ### [Dashboard/Business Intelligence Project – Power BI, Looker Studio (click here)](https://github.com/anandawln/Dashboard-Project)
 *Designed interactive dashboards and dynamic reports to support data-driven decision-making.*
 
-### [Big Data, Data Science – BigQuery, PySpark, Jupyter Notebook, (click here)](https://github.com/anandawln/Big-Data-and-Data-Science-Collections)
-*Data wrangling, EDA, featured engineering, machine learning basic, visualization.*
-
 <h4 align="center">""Explore my other repositories to discover more projects"</h4>
 
 ---

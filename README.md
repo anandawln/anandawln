@@ -201,8 +201,8 @@
 
 ## 🌟 Project Collections
 
-### [Data Engineering Project – Airflow, PostgreSQL, MySQL, Docker, SSIS, Talend, SQL Server, Flask RESTful API (click here)](link)
-ETL pipeline optimization, testing data workflows, data ingestion, designing data warehouse, containerization, ingest data from API
+### [Data Engineering Project – Airflow, PostgreSQL, MySQL, Docker, SSIS, Talend, SQL Server, Flask RESTful API (click here)](https://github.com/anandawln/Data-Engineering-Project-Collections)
+*ETL pipeline optimization, testing data workflows, data ingestion, designing data warehouse, containerization, ingest data from API.*
 
 ### [Big Data, Data Science – BigQuery, PySpark, Jupyter Notebook, (click here)](link)
 Data wrangling, EDA, featured engineering, machine learning basic, visualization

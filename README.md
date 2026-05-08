@@ -3,7 +3,13 @@
 
 ## 🌟 About Me
 
-📊 *Turning raw data into scalable pipelines & insights* 🤖 *Currently diving deep into Big Data Technologies, Cloud Computing, DevOps, and AI* 🎯 *Building efficient data systems with modern tech* 🌍 *Open to data collaborations & new tools* 🤝 *Feedback Welcome - I'm growing every day, so please share tips or corrections!* ## 📫 Reach Me
+📊 *Turning raw data into scalable pipelines & insights*  
+🤖 *Currently diving deep into Big Data Technologies, Cloud Computing, DevOps, and AI*   
+🎯 *Building efficient data systems with modern tech*   
+🌍 *Open to data collaborations & new tools*   
+🤝 *Feedback Welcome - I'm growing every day, so please share tips or corrections!*   
+
+## 📫 Reach Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wulanka/)
 

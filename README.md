@@ -1,12 +1,6 @@
 <h1 align="center">こんにちは, I'm Wulan👋</h1>
 <h2 align="center"> Data Engineering & Business Intelligence </h2>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandawln&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandawln&layout=compact&theme=dark)
-
 ## 🌟 About Me
 
 📊 *Turning raw data into scalable pipelines & insights*  
@@ -55,6 +49,15 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=DBeaver&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anandawln">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandawln&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandawln&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</div>
 
 ## 🌟 Project Collections
 

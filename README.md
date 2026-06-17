@@ -1,6 +1,12 @@
 <h1 align="center">こんにちは, I'm Wulan👋</h1>
 <h2 align="center"> Data Engineering & Business Intelligence </h2>
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandawln&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandawln&layout=compact&theme=dark)
+
 ## 🌟 About Me
 
 📊 *Turning raw data into scalable pipelines & insights*  
